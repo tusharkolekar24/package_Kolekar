@@ -1,2 +1,3 @@
 # package_Kolekar
-How to use "package_kolekar " to solve Regression Problems
+How to use "package_kolekar" to solve Regression Problems
+pip install package_Kolekar
